@@ -1,6 +1,4 @@
-# CoNet-iOS
-
-<img src = "https://github.com/KUIT-CoNet/CoNet-iOS/assets/117328806/745158bf-fb70-4929-b358-9861ce766451" height="500">
+![1](https://github.com/KUIT-CoNet/CoNet-iOS/assets/117328806/745158bf-fb70-4929-b358-9861ce766451)
 
 <br><br>
 
