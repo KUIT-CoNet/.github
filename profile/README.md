@@ -121,7 +121,8 @@ Connect와 Network를 합친 단어로<br>
     
 - `Server`
   - Java, Spring Boot(3.1.1)
-  - AWS EC2, RDS, S3, Redis
+  - JDBC API
+  - AWS EC2, RDS, S3 / Redis
 
 <br>
 
