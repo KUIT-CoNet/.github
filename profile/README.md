@@ -118,6 +118,10 @@ Connect와 Network를 합친 단어로<br>
   - Xcode, Swift
   - UIKit
   - SnapKit, Then, Alamofire
+    
+- `Server`
+  - Java, Spring Boot(3.1.1)
+  - AWS EC2, RDS, S3, Redis
 
 <br>
 
