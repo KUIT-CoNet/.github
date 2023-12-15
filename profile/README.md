@@ -1,7 +1,3 @@
-![1](https://github.com/KUIT-CoNet/CoNet-iOS/assets/117328806/9d781b3b-b73d-461e-acb1-973e1d037175)
-
-<br><br>
-
 ## 💜 CoNet
 
 ### 팀명/서비스명 : CoNet (커넷)
@@ -56,8 +52,6 @@ Connect와 Network를 합친 단어로<br>
 -  iOS에서는 애플과 카카오, Android에서는 카카오로 간편하게 앱을 시작할 수 있습니다.
 -  약관 동의와 이름 입력으로 회원가입을 하고 나면, 홈 화면에서는 모든 모임에 대한 확정된 약속과 확정을 기다리고 있는 대기중인 약속을 확인할 수 있습니다.
 
-![15](https://github.com/KUIT-CoNet/CoNet-iOS/assets/117328806/22f3a58e-e037-49be-b3d4-6a2d1a419691)
-
 </details>
 
 <details>
@@ -67,8 +61,6 @@ Connect와 Network를 합친 단어로<br>
 - 초대코드는 영어 대소문자와 숫자로 이루어진 8글자의 코드로, 발급 시각으로부터 24시간까지 유효합니다.
 - 전달받은 초대코드를 입력하면 모임에 참여할 수 있습니다.
 
-![16](https://github.com/KUIT-CoNet/CoNet-iOS/assets/117328806/c06bea5f-95f1-48bb-9631-3070033c0888)
-
 </details>
 
 <details>
@@ -77,7 +69,6 @@ Connect와 Network를 합친 단어로<br>
 - 약속 이름과 약속이 이루어질 것 같은 기간의 시작 날짜를 입력하고 약속을 생성합니다.
 - 만들어진 약속은 모임원들의 대기중인 약속으로 나타납니다.
   
-![17](https://github.com/KUIT-CoNet/CoNet-iOS/assets/117328806/2b50420f-8e2a-410b-8b35-e8da3c70baa3)
 
 </details>
 
@@ -88,7 +79,6 @@ Connect와 Network를 합친 단어로<br>
 - 내 시간을 입력/수정할 수 있고, 가능한 시간이 없다면 아래 가능한 시간 없음 버튼을 누르고 저장할 수 있습니다.
 - 시간 공유 페이지에서는, 가능한 사람의 수에 따라 색상을 다르게 지정하여, 시간대별 가능한 사람들의 수를 쉽게 확인할 수 있도록 했습니다.
 
-![18](https://github.com/KUIT-CoNet/CoNet-iOS/assets/117328806/4ccc5c27-efef-43af-8211-215cd419c34c)
 
 </details>
 
@@ -98,7 +88,6 @@ Connect와 Network를 합친 단어로<br>
 - 시간 공유 페이지에서 가능한 사람이 있는 시간대를 선택하면, 해당 시간에 누가 가능한지 확인하고, 약속을 확정할 수 있습니다.
 - 확정된 약속은 캘린더에 기록되어 홈 탭과 모임 안에서 확인할 수 있습니다.
 
-![19](https://github.com/KUIT-CoNet/CoNet-iOS/assets/117328806/043fa4b0-ee2b-45f9-88a8-b3ad6e2bc32c)
 
 </details>
 
@@ -108,7 +97,6 @@ Connect와 Network를 합친 단어로<br>
 - 확정된 약속의 날짜가 지나고 나면 약속에 대한 추억을 기록할 수 있습니다.
 - 히스토리 추가를 통해 사진과 내용을 입력하면, 그동안 모임에서 함께 해왔던 기억들을 피드 형태로 모아볼 수 있습니다.
 
-![20](https://github.com/KUIT-CoNet/CoNet-iOS/assets/117328806/7309425a-56a8-4542-85fa-23c22d65b049)
 
 </details>
 <br><br>
@@ -128,5 +116,4 @@ Connect와 Network를 합친 단어로<br>
 
 ## 🏙️ System Architecture
 
-![21](https://github.com/KUIT-CoNet/CoNet-iOS/assets/117328806/ffd5ec92-9c73-4557-af7d-54f0b9f0abde)
 
