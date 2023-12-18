@@ -1,3 +1,9 @@
+# CoNet-iOS
+
+![image](https://github.com/KUIT-CoNet/CoNet-iOS/assets/117328806/b10ebc1c-2978-4d96-aa13-7182c1065665)
+
+<br><br>
+
 ## 💜 CoNet
 
 ### 팀명/서비스명 : CoNet (커넷)
@@ -9,15 +15,14 @@ Connect와 Network를 합친 단어로<br>
 
 | 파트 | 이름 | 역할 및 담당 |
 | --- | --- | --- |
-| PM/iOS | [이안진](https://github.com/anjiniii) | 🍎 기획/프로젝트 매니징 및 iOS 개발 |
+| PM/iOS | [이안진](https://github.com/anjiniii) | 🍎 PM 및 iOS 개발 |
+| iOS | [유가은](https://github.com/slr-09) | 🍎 iOS 개발 Lead |
 | iOS | [정아현](https://github.com/ahhyun1015) | 🍎 iOS 개발 |
-| iOS | [유가은](https://github.com/slr-09) | 🍎 iOS 개발 |
-| Android | [김영록](https://github.com/kimyeoungrok) | 🤖 Android 개발 Lead |
-| Android | [박지원](https://github.com/parkji1on) | 🤖 Android 개발 |
+| Android | [박지원](https://github.com/parkji1on) | 🤖 Android 개발 Lead |
 | Android | [김채린](https://github.com/chrin05) | 🤖 Android 개발 |
-| Server | [정소민](https://github.com/somin-jeong) | 💻 Server 개발 Lead |
-| Server | [정경은](https://github.com/ro-el-c) | 💻 Server 개발 |
-| Design | 김미보 | 📢 서비스 디자인 |
+| Server | [정경은](https://github.com/ro-el-c) | 💻 Server 개발 Lead |
+| Server | [정소민](https://github.com/somin-jeong) | 💻 Server 개발 |
+| Server | [강연주](https://github.com/yeonjookang) | 💻 Server 개발 |
 
 <br>
 
@@ -25,6 +30,8 @@ Connect와 Network를 합친 단어로<br>
 
 전체 프로젝트 기간
 2023.06.26 - 2023.08.10
+
+그리고 2023.12.15 ~ ing
 
 <br>
 
@@ -52,6 +59,7 @@ Connect와 Network를 합친 단어로<br>
 -  iOS에서는 애플과 카카오, Android에서는 카카오로 간편하게 앱을 시작할 수 있습니다.
 -  약관 동의와 이름 입력으로 회원가입을 하고 나면, 홈 화면에서는 모든 모임에 대한 확정된 약속과 확정을 기다리고 있는 대기중인 약속을 확인할 수 있습니다.
 
+
 </details>
 
 <details>
@@ -60,6 +68,7 @@ Connect와 Network를 합친 단어로<br>
 - 모임 이름과 대표 사진을 입력해 모임을 만들고, 초대코드를 발급해 함께 하고 싶은 친구들에게 공유합니다.
 - 초대코드는 영어 대소문자와 숫자로 이루어진 8글자의 코드로, 발급 시각으로부터 24시간까지 유효합니다.
 - 전달받은 초대코드를 입력하면 모임에 참여할 수 있습니다.
+
 
 </details>
 
@@ -106,14 +115,9 @@ Connect와 Network를 합친 단어로<br>
   - Xcode, Swift
   - UIKit
   - SnapKit, Then, Alamofire
-    
-- `Server`
-  - Java, Spring Boot(3.1.1)
-  - JDBC API
-  - AWS EC2, RDS, S3 / Redis
 
 <br>
 
 ## 🏙️ System Architecture
 
-
+![image](https://github.com/KUIT-CoNet/CoNet-iOS/assets/117328806/151deb3d-dc66-479b-a960-0ce8cef9fe22)
