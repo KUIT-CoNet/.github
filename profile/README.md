@@ -23,6 +23,8 @@ Connect와 Network를 합친 단어로<br>
 | Server | [정경은](https://github.com/ro-el-c) | 💻 Server 개발 Lead |
 | Server | [정소민](https://github.com/somin-jeong) | 💻 Server 개발 |
 | Server | [강연주](https://github.com/yeonjookang) | 💻 Server 개발 |
+| (함께했던) Android | [김영록](https://github.com/kimyeoungrok) | 🤖 Android 개발 |
+| (함께했던) Design | 김미보 | 📢 서비스 디자인 |
 
 <br>
 
